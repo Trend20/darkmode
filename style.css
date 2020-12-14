@@ -45,3 +45,18 @@ button{
     cursor: pointer;
     margin-right: 100px;
 }
+
+.contents{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.contents button{
+    font-weight: 700;
+    border: none;
+    background: rgb(18, 160, 216);
+}

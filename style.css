@@ -10,7 +10,7 @@ body{
 
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     width: 100%;
 }
@@ -41,7 +41,7 @@ button{
     border-radius: 50%;
     position: absolute;
     top: 3.5%;
-    left: 50.5%;
+    left: 95%;
     cursor: pointer;
     margin-right: 100px;
 }
